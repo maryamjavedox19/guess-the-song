@@ -1,0 +1,120 @@
+body {
+    background-image: url(https://wallpaperaccess.com/full/182786.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+
+}
+
+#firstimage{
+width: 5%;
+position: relative;
+top: 435px;
+
+}
+
+#secondimage{
+    width: 5%;
+    position: relative;
+    left: 300px;
+    top: 85px;
+}
+
+
+
+h1 {
+
+    font-family:'Times New Roman', Times, serif;
+    writing-mode: vertical-lr;
+    text-orientation: upright;
+    padding-left: 550px;
+    text-transform: uppercase;
+    color: #535555;
+    margin-left: -60px;
+    margin-top: -110px
+
+
+}
+
+
+#todd {
+    border: 2px #c6c4c4 solid;
+    border-radius: 100%;
+    padding-left: 50;
+    padding-bottom: 5em;
+    padding-top: 60px;
+    padding-right: 50px;
+    margin-top: -400px;
+    text-align: right;
+    background-color: #e8e8e8;
+    width: 330px;
+
+
+    
+    
+}
+
+#whole {
+    margin: 100px 1550px 40px 30px;
+    /*Top right bottom left  */
+
+}
+
+.h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:  #484f4f;
+    margin-right: 15px;
+
+
+
+}
+
+#enter{
+    color: #484f4f;
+    background-color: #f5f4f4;
+    width: 20%;
+    font-size: 16px;
+    border-color: antiquewhite;
+
+    
+    
+   
+}
+
+#enter:hover{
+       color: black;
+       cursor: pointer;
+       background-color: #c9cfce;
+     
+
+      }
+      
+
+
+#hint{
+    width: 30%;
+    font-size: 16px;
+    color: #484f4f;
+    background-color: #f5f4f4;
+    margin-right: 30%;
+    margin-top: 10%;
+    font-size: large;
+    border-color: antiquewhite;
+
+
+}
+
+#hint:hover{
+    color: black;
+    cursor: pointer;
+    background-color: #c9cfce;
+
+   }
+   
+
+#input{
+    width: 70%;
+    cursor:text;
+    font-size: larger;
+}
